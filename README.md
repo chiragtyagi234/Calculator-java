@@ -55,7 +55,7 @@ The interface uses a **dark grey** base with **orange** operator buttons for a c
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshot.png" alt="Calculator Screenshot" width="300"/>
+  <img src="C:\Users\mswin\Downloads\photo" alt="Calculator Screenshot" width="300"/>
 </p>
 
 ---
