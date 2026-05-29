@@ -58,7 +58,7 @@ The interface uses a **dark grey** base with **orange** operator buttons for a c
   
   ![image alt](https://github.com/chiragtyagi234/Calculator-java/blob/236f4b05f4820caa8a2049468612ebadbbb634a3/photo.png)
   
-</>
+</p>
 
 ---
 
